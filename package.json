@@ -11,9 +11,7 @@
     "url": "git+https://github.com/4524B4C51/logging.git"
   },
   "keywords": [
-    "http",
-    "pubsub",
-    "json"
+    "logging"
   ],
   "author": "Akos Szabacsi",
   "license": "MIT",
@@ -23,8 +21,5 @@
   "homepage": "https://github.com/4524B4C51/logging#readme",
   "devDependencies": {
     "jest": "^20.0.4"
-  },
-  "dependencies": {
-    "winston": "^2.3.1"
   }
 }
