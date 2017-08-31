@@ -1,0 +1,30 @@
+{
+  "name": "dps_logging",
+  "version": "0.0.1",
+  "description": "abstraction layer for logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4524B4C51/logging.git"
+  },
+  "keywords": [
+    "http",
+    "pubsub",
+    "json"
+  ],
+  "author": "Akos Szabacsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4524B4C51/logging/issues"
+  },
+  "homepage": "https://github.com/4524B4C51/logging#readme",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "winston": "^2.3.1"
+  }
+}
